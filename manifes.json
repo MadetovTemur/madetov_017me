@@ -1,0 +1,15 @@
+{
+  "name": "Madetov's Project",
+  "start_url": ".",
+  "display": "standalone",
+  "lang": "ru",
+  "orientation": "portrait-primary",
+  "discription": "My project portfoliyo app",
+
+
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
